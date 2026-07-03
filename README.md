@@ -94,7 +94,7 @@ I enjoy transforming ideas into polished applications while continuously learnin
 ----
 
 ## ⑦ Tech Stack
-# Tech Stack
+<h2 align="center">Technology Stack</h2>
 
 ## Languages
 
@@ -131,7 +131,9 @@ I enjoy transforming ideas into polished applications while continuously learnin
 
 ---
 
-# AI / ML Expertise
+
+
+<h2 align="center">AI / ML Expertise</h2>
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
@@ -142,6 +144,190 @@ I enjoy transforming ideas into polished applications while continuously learnin
 | Computer Vision | ⭐⭐☆☆☆ | Image Processing Fundamentals |
 | AI Product Engineering | ⭐⭐⭐⭐☆ | Integrating AI into Modern Web Applications |
 
+---
+
+---
+
+<h2 align="center">🚀 Featured Engineering Projects</h2>
+
+<p align="center">
+
+Building products with clean architecture, modern technologies, scalable design principles, and exceptional user experience.
+
+</p>
+
+<br>
+
+<details>
+
+<summary>
+
+# 🎵 AuraWave — Premium AI Music Streaming Platform
+
+</summary>
+
+<br>
+
+> A premium music streaming platform engineered with a modern UI, immersive animations, and AI-driven experiences. AuraWave focuses on delivering an elegant listening experience inspired by industry-leading music platforms while exploring intelligent personalization features.
+
+### Highlights
+
+- Modern glassmorphism interface
+- Responsive premium design
+- Interactive music player
+- Dynamic album carousel
+- Smooth GSAP animations
+- AI-ready architecture
+- Lyrics synchronization
+- Audio visualizer
+- Playlist management
+- Mobile-first experience
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | HTML • CSS • JavaScript • GSAP • Web Audio API |
+| **Architecture** | Modular Frontend Architecture |
+| **Performance** | Optimized animations and responsive rendering |
+| **Security** | Client-side validation & clean UI state management |
+| **Impact** | Demonstrates advanced frontend engineering and product thinking |
+| **Status** | 🚧 Active Development |
+| **Repository** | Coming Soon |
+
+### Engineering Focus
+
+AuraWave is designed as more than a music player. It demonstrates modern frontend architecture, reusable UI components, responsive layouts, animation engineering, and scalable design principles that can evolve into a production-ready music streaming platform.
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🤖 AI Interview Preparation Platform
+
+</summary>
+
+<br>
+
+> An AI-powered interview preparation platform designed to simulate real-world technical interviews, evaluate responses, and provide personalized feedback to improve confidence and communication.
+
+### Planned Features
+
+- AI Mock Interviews
+- Resume Analysis
+- Technical Question Bank
+- Coding Assessment
+- Voice Interaction
+- Performance Dashboard
+- Interview Analytics
+- Personalized Recommendations
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | React • Spring Boot • AI APIs • MySQL |
+| **Architecture** | Full Stack Product Architecture |
+| **Performance** | Optimized REST API communication |
+| **Security** | Authentication & Secure API Design |
+| **Impact** | Helps students prepare for technical interviews efficiently |
+| **Status** | 🚧 Planning & Development |
+| **Repository** | Coming Soon |
+
+### Engineering Focus
+
+The platform aims to combine AI with software engineering best practices to create an intelligent learning environment for aspiring software engineers.
+
+</details>
+
+---
+
+
+<details>
+
+<summary>
+
+# 🅿 Smart Parking System
+
+</summary>
+
+<br>
+
+> A web-based parking management system that helps users locate available parking spaces while improving parking efficiency through real-time slot monitoring.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | HTML • CSS • JavaScript • MySQL |
+| **Architecture** | Client-Server Web Application |
+| **Performance** | Responsive interface with efficient parking visualization |
+| **Security** | Input validation and database-driven management |
+| **Impact** | Simplifies parking allocation and reduces congestion |
+| **Status** | ✅ Completed |
+| **Repository** | Coming Soon |
+
+### Key Features
+
+- Parking slot availability
+- Responsive interface
+- Efficient parking management
+- Easy navigation
+- Database integration
+
+### Engineering Focus
+
+The project demonstrates practical problem-solving through web technologies while emphasizing usability, responsive design, and database management.
+
+</details>
+
+---
+
+
+<details>
+
+<summary>
+
+# 🌐 Personal Portfolio Website
+
+</summary>
+
+<br>
+
+> A responsive portfolio website showcasing projects, technical skills, certifications, and professional achievements with a clean and modern user experience.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | HTML • CSS • JavaScript |
+| **Architecture** | Responsive Frontend Architecture |
+| **Performance** | Lightweight and optimized for all devices |
+| **Security** | Clean client-side implementation |
+| **Impact** | Establishes a professional online presence |
+| **Status** | ✅ Live |
+| **Repository** | https://github.com/lokeshnandyala |
+| **Live Demo** | https://lokeshnandyala.github.io/Portfolio/ |
+
+### Highlights
+
+- Responsive Design
+- Professional Layout
+- Skills Showcase
+- Project Gallery
+- Contact Integration
+- Clean Navigation
+
+### Engineering Focus
+
+The portfolio demonstrates frontend development skills while presenting projects, technical expertise, and continuous learning in a professional format.
+
+</details>
+
+---
+
+
+<h3 align="center">
+
+Building software isn't just about writing code—it's about engineering reliable, scalable, and meaningful products that solve real-world problems.
+
+</h3>
 
 ---
 
