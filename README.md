@@ -510,3 +510,140 @@ Currently strengthening problem-solving skills through Data Structures & Algorit
 ```
 
 ---
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokeshnandyala&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshnandyala&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshnandyala&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lokeshnandyala&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshnandyala&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/lokeshnandyala/lokeshnandyala/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+```yaml
+learning:
+  - Spring Boot
+  - React.js
+  - Data Structures & Algorithms
+  - AWS Cloud
+  - System Design
+
+building:
+  - AuraWave
+  - AI Interview Preparation Platform
+  - GitHub Portfolio
+  - Full Stack Projects
+
+exploring:
+  - Artificial Intelligence
+  - Large Language Models
+  - Cloud Computing
+  - Open Source
+
+open_to:
+  - Software Engineering Internships
+  - Full Stack Development
+  - AI Projects
+  - Open Source Collaboration
+```
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="mailto:nloke0008@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-nloke0008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/lokesh-nandyala-3b8b22354">
+
+<img src="https://img.shields.io/badge/LinkedIn-Lokesh%20Nandyala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/lokeshnandyala">
+
+<img src="https://img.shields.io/badge/GitHub-lokeshnandyala-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://lokeshnandyala.github.io/Portfolio/">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+
+<h2 align="center">💡 Engineering Philosophy</h2>
+
+<p align="center">
+
+<i>
+
+"Great software isn't built by writing more code.
+It's built by understanding problems deeply, designing elegant solutions,
+and continuously improving through learning, collaboration, and curiosity."
+
+</i>
+
+</p>
+
+---
+
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+
+</p>
