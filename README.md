@@ -322,6 +322,7 @@ The portfolio demonstrates frontend development skills while presenting projects
 
 ---
 
+## Part3
 
 <h3 align="center">
 
@@ -332,3 +333,180 @@ Building software isn't just about writing code—it's about engineering reliabl
 ---
 
 
+---
+
+<h3 align="center">
+
+Building software isn't just about writing code—it's about engineering reliable, scalable, and meaningful products that solve real-world problems.
+
+</h3>
+
+---
+
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<table>
+<tr>
+<td width="20%">
+
+### **InternPe**
+
+**Web Development Intern**
+
+**4 Weeks**
+
+Remote
+
+</td>
+
+<td width="80%">
+
+### Web Development Intern
+
+Contributed to practical web development projects focused on responsive user interfaces and modern frontend engineering practices. Worked on building interactive web applications while strengthening problem-solving, debugging, and clean coding principles.
+
+#### Key Responsibilities
+
+- Developed responsive web pages using HTML, CSS and JavaScript.
+- Improved UI responsiveness across different screen sizes.
+- Implemented reusable frontend components.
+- Collaborated using Git-based development workflows.
+- Practiced debugging and performance optimization.
+- Delivered assignments within project timelines.
+
+#### Skills Applied
+
+`HTML`
+`CSS`
+`JavaScript`
+`Git`
+`Responsive Design`
+`Problem Solving`
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 🎓 Academic Excellence | B.Tech CSE — **CGPA 9.25** |
+| 📖 Intermediate | **97%** |
+| 🏅 SSC | **99.3%** |
+| 💻 Engineering Projects | Built Full Stack & Frontend Applications |
+| 🚀 Continuous Learning | AWS • Cisco • Infosys Springboard • Coursera |
+
+</p>
+
+---
+
+<h2 align="center">🎓 Education</h2>
+
+| Institution | Qualification | Duration | Performance |
+|-------------|--------------|----------|-------------|
+| Mohan Babu University | B.Tech Computer Science & Engineering | 2023 – 2027 | **CGPA 9.25** |
+| Narayana Junior College | Intermediate | 2021 – 2023 | **97%** |
+| Gnana Jyothi MarThoma E.M High School | SSC | 2020 – 2021 | **99.3%** |
+
+---
+
+<h2 align="center">📜 Certifications</h2>
+
+## ☁ Cloud
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## 💻 Professional Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Infosys-Springboard-6A5ACD?style=for-the-badge&logo=infosys&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Coursera-Learning-7B68EE?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+</p>
+
+---
+
+## 🏢 Enterprise Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Microsoft-Learning-9370DB?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Learning-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ServiceNow-Learning-7B68EE?style=for-the-badge&logo=servicenow&logoColor=white"/>
+
+</p>
+
+---
+
+<h2 align="center">💻 Coding Profiles</h2>
+
+<p align="center">
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/FacePrep-Coming%20Soon-6A5ACD?style=for-the-badge"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-2F8D46?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+Currently strengthening problem-solving skills through Data Structures & Algorithms, competitive programming, and technical interview preparation.
+
+</p>
+
+---
+
+
+<h2 align="center">📈 Engineering Journey</h2>
+
+```text
+2023  ████████░░░░ Started B.Tech CSE
+
+2024  ████████████ Web Development
+
+2025  ███████████████ Java Development
+
+2026  █████████████████ AI Engineering
+
+2027  ███████████████████ Full Stack Product Engineering
+```
+
+---
